@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 792076727c3334f3aa08a39c2142c1aa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - timeText: {instanceID: 0}
+  - carSound: {instanceID: 0}
+  - prefabDiamond: {fileID: 489041382140649076, guid: 510a9311063f04f00b1fd8fccf248817,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
